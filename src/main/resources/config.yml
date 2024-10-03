@@ -1,0 +1,12 @@
+chat: true
+command: true
+movement: true
+attack: true
+damage: true
+interaction: true
+breaking: true
+placement: true
+crafting: true
+join-message: true
+quit-message: true
+

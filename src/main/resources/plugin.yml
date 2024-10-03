@@ -1,0 +1,6 @@
+name: Control
+version: 1.0-SNAPSHOT
+main: io.jwyoon1220.control.CtlPlugin
+api-version: 1.19
+libraries:
+  - io.github.monun:kommand-core:3.1.7
