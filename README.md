@@ -1,6 +1,6 @@
 말안듣는 시참러들 통제
 
-/ctl <flag> <boolean>
+/ctl flag true/false
 
 flags:
 chat
